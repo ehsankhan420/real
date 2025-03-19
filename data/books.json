@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "The World War 2",
+    "author": "John Keegan",
+    "category": "History",
+    "available": true
+  }
+]

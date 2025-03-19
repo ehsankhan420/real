@@ -1,0 +1,18 @@
+{
+  "name": "book-lending-system",
+  "version": "1.0.0",
+  "description": "A simple book lending system",
+  "main": "events.js",
+  "scripts": {
+    "start": "node events.js",
+    "test": "node testScript.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
